@@ -1,6 +1,6 @@
 {
   "name": "@saber2pr/gen-clc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "https://github.com/Saber2pr/gen-clc.git",
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
     "typescript": "^3.4.3"
   },
   "dependencies": {
-    "@saber2pr/node": "^0.2.7"
+    "@saber2pr/node": "^0.2.8"
   }
 }
