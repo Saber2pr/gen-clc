@@ -1,0 +1,29 @@
+{
+  "name": "@saber2pr/gen-clc",
+  "version": "0.0.1",
+  "description": "https://github.com/Saber2pr/gen-clc.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saber2pr/gen-clc.git"
+  },
+  "author": "saber2pr",
+  "license": "ISC",
+  "files": [
+    "lib/core/*",
+    "lib/index.*"
+  ],
+  "main": "./lib/index.js",
+  "bin": {
+    "genClc": "./lib/index.js"
+  },
+  "scripts": {
+    "test": "./lib/index.js",
+    "start": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "@saber2pr/node": "^0.2.7"
+  }
+}
