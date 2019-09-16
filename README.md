@@ -3,7 +3,7 @@
 > clean the code's comments in a file or dir.
 
 ```bash
-yarn add @saber2pr/gen-clc -g
+npm i @saber2pr/gen-clc -g
 ```
 
 # Usage
